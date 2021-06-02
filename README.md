@@ -1,1 +1,5 @@
-# User-Bot-For-Telegram
+# UserBot For Telegram
+Это пример юзербота для Телеграм.
+В нем присутствует 2 команды:
+<code>!напиши {сообщение ваше}</code>
+<code>!взлом</code>
